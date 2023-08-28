@@ -21,3 +21,7 @@ Raster data is stored as a grid of cells.  It is like a matrix.  Each cell has a
 ### Alphanumeric (Tabular)
 
 Alphanumeric data is stored in a table.  Each row is a record.  Each column is a field.  A field is a single piece of information.  A record is a collection of fields.  A table is a collection of records.
+
+## CRS (Coordinate Reference System)
+
+A coordinate reference system (CRS) is a coordinate-based local, regional or global system used to locate geographical entities.  A CRS is defined by a datum and a projection.  A datum is a model of the earth.  A projection is a method for transforming the earth's curved surface into a flat surface.
